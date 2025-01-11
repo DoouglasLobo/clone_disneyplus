@@ -75,9 +75,9 @@ Certifique-se de ter as ferramentas instaladas:
 4. **Inicie o Servidor de Desenvolvimento:**
 
    ```bash
-  npm start  
-  # ou  
-  yarn start
+   npm start  
+   # ou  
+   yarn start
    ```
 
 5. **Acesse a aplicação:**
