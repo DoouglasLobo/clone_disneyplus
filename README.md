@@ -23,9 +23,8 @@ O projeto está hospedado no Vercel e pode ser acessado [aqui](https://clone-dis
 
 | **Desktop**                                | **Tablet**                               | **Mobile**                               |  
 |-------------------------------------------|------------------------------------------|------------------------------------------|  
-| ![Desktop View](./public/assets/desktop.png) | ![Tablet View](./public/assets/tablet.png) | ![Mobile View](./public/assets/mobile.png) |  
+| ![Desktop View](https://lh3.googleusercontent.com/pw/AP1GczPr6ZsEX4AtEFpgQ-jlPHfyDP1GbT1fVobNPMOLcxUws8OemaY_JZWrg9WxzhBnGumrPdorIc7AHPrEMzAkhGZlduvZderQX1cLDGW5Gkp64F7gbbVhAQKrtX4l8ohzi-kZFbzXJlWimqq8yFc93WoL=w1349-h617-s-no-gm?authuser=0) | ![Tablet View](https://lh3.googleusercontent.com/pw/AP1GczPy7rIurLD2lpTEJUTUdamSKrQXGNqZkmaY8OyFNCNDqZqvDcfYZMs7lzuB-3w4b3YdsBPuFC1iYJocYQ2qfY83NqQG31nS3U7gVxCTZqNfCsYClQl71fI5X8C86wThJTObOLH4MU2lU5eZUuE6Q0q_=w322-h472-s-no-gm?authuser=0) | ![Mobile View](https://lh3.googleusercontent.com/pw/AP1GczNqaDjqNZWEVEghuswvlzBplnFuZRHF_s9Od2pS1QnUSl5aMv3Nvm1kf9es68Xs207SuDcf35BfBTmhxC0aAJWWHtU1QcR7zccEIayP5iPg03suPp2bc5s4qN2HfS09_wx8flQEuHeXjHO1jq7rzIyS=w235-h525-s-no-gm?authuser=0) |  
 
-> **Nota:** Adicione as imagens correspondentes na pasta `public/assets` com os nomes `desktop.png`, `tablet.png` e `mobile.png`.  
 
 ---  
 
